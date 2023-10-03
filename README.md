@@ -11,19 +11,19 @@ Elementos e Atributos Utilizados
 
 </h1>
 
-># Button 
+>* ``Button``
 >É um elemento interativo ativado por um usuário com mouse, teclado, dedo, comando de voz ou outra tecnologia assistiva. Uma vez ativado, ele executa uma ação, como enviar um formulário ou abrir uma caixa de diálogo.
 
-># Img
+>* ``Img``
 >incorpora uma imagem no documento.
 
-># Label
+>* ``Label``
 >Representa uma legenda para um item em uma interface do usuário.
 
-># Body
+>* ``Button``
 >representa o conteúdo de um documento HTML.
 
-># Input
+>* ``Input``
 >É usado para criar controles interativos para formulários baseados na Web, a fim de aceitar dados do usuário.
 
 >
